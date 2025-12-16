@@ -1,79 +1,123 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbhishekNamdeo1011/AbhishekNamdeo1011/main/assets/readme-header.svg" alt="Hi There!" width="100%"/>
-  
-  <h1>Hey there 👋 I'm Abhishek Namdeo!</h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2B90D9&center=true&width=550&lines=Full-Stack+Developer;AI+Integration+Engineer;Frontend+Specialist;Building+Modern%2C+Scalable+Web+Apps" alt="typing animation"/>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AbhishekNamdeo1011&color=2B90D9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=ABHISHEK%20NAMDEO&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Generative%20AI%20·%20Web3%20Basics&descAlignY=55&descSize=18" width="100%" />
+
 </div>
-
----
-
-## 💡 About Me
-I am a passionate **Full-Stack Developer** and **AI Integration Engineer** focused on bridging the gap between cutting-edge technology and impactful user experience. I thrive on bringing complex ideas to life, from crafting robust server-side architecture to designing pixel-perfect, performant UIs.
-
-* 🔭 **Currently architecting** a highly-scalable, Next.js-powered GenAI application with custom LLM integrations.
-* 🌱 **Deeply exploring** advanced concepts in Vector Databases and MLOps for production deployments.
-* 👯 **Open to collaborating** on innovative projects involving **React/Next.js** and **AI/ML integration**.
-* 💬 **Ask me about** building full-stack applications and optimizing frontend performance!
-
----
-
-## ⚙️ Tech Stack & Core Expertise
-A snapshot of the technologies I work with daily:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,figma" /> |
-| **Backend/Runtime** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,c" /> |
-| **AI/ML & Data** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /> (Add your specific AI tools like Pinecone here, or use text) |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode" /> |
 
 <div align="center">
-  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1800&color=2B90D9&center=true&vCenter=true&width=900&lines=Hey!+I'm+Abhishek+Namdeo+%F0%9F%91%8B;Full-Stack+Developer;Generative+AI+%26+LLM+Integration;Building+Scalable+Web+Products" />
 </div>
+
+<br/>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" alt="Developer working"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AbhishekNamdeo1011&label=Profile%20Views&color=2B90D9&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/AbhishekNamdeo1011?label=Followers&style=flat-square&color=2B90D9"/>
+<img src="https://img.shields.io/badge/From-India%20🇮🇳-orange?style=flat-square"/>
+</p>
 
 ---
 
-## 📈 My GitHub Activity
+## 👋 About Me
+
+I’m **Abhishek Namdeo**, a **Full-Stack Developer** focused on building  
+**scalable web applications and AI-powered products**.
+
+I enjoy combining **clean UI**, **robust backend systems**, and **practical AI integrations** to solve real-world problems.
+
+---
+
+## 🧰 Tech Stack
+
+### 🎨 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
+</p>
+
+### 🤖 Generative AI & Vector Databases
+<p align="center">
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker&perline=2" /><br/>
+<img src="https://img.shields.io/badge/DevOps-Basics-0F172A?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### 🧠 Systems & Web3
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp&perline=1" /><br/>
+<img src="https://img.shields.io/badge/Web3-Basics-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 What I Like Building
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/AI.gif" width="240"/><br/>
+<strong>AI-Powered Experiences</strong><br/>
+LLM-based chatbots, assistants, and RAG systems
+</td>
+
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/web.gif" width="240"/><br/>
+<strong>Full-Stack Web Applications</strong><br/>
+Scalable, production-ready web platforms
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/AbhishekNamdeo1011">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbhishekNamdeo1011&show_icons=true&theme=buefy&hide_border=true&count_private=true&line_height=25&title_color=2B90D9&icon_color=2B90D9" alt="Abhishek's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNamdeo1011&layout=compact&theme=buefy&hide_border=true&line_height=25&title_color=2B90D9&icon_color=2B90D9" alt="Top Languages" />
-  </a>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekNamdeo1011&theme=dracula&margin-w=10" alt="GitHub Trophies"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhishekNamdeo1011&show_icons=true&hide_border=true&theme=dracula"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AbhishekNamdeo1011&theme=dracula&hide_border=true"/>
+</div>
+
+<div align="center">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNamdeo1011&layout=compact&hide_border=true&theme=dracula"/>
 </div>
 
 ---
 
-## 🔗 Connect With Me
-Let's build something amazing together!
+## 🌐 Connect With Me
 
-| Platform | Link |
-| :--- | :--- |
-| 💼 **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE) |
-| 🌐 **Portfolio** | [View My Portfolio](https://www.yourportfolio.com) |
-| 📧 **Email** | [Email Me](mailto:youremail@example.com) |
-| 🐦 **Twitter** | [Follow on Twitter](https://twitter.com/YOUR_TWITTER_HANDLE) |
+<div align="center">
 
-***
+<a href="https://www.linkedin.com/in/abhishek-namdeo-02749b317/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### Key Changes & Why They Make it Better:
+<a href="https://www.instagram.com/abhishek_namdeo0019/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-1.  **Skill Icons (Cool & Professional):** I replaced the standard `shields.io` badges with **[Skill Icons](https://skillicons.dev/)**. They are cleaner, vector-based, and look much more modern, organized into a clean table structure for scannability.
-2.  **Custom Header (Unique):** The placeholder `<img src="https://raw.githubusercontent.com/AbhishekNamdeo1011/AbhishekNamdeo1011/main/assets/readme-header.svg" ...` suggests you can create or use a custom SVG/image banner for a highly unique touch.
-3.  **Modern Stats Theme:** Changed the theme for `github-readme-stats` and `top-langs` to `buefy` (or another modern theme) and added `hide_border=true` for a cleaner, floating look.
-4.  **Structured Intro:** Replaced the large block image with the standard GitHub profile card placeholder structure (`🔭 Currently working on...`) but formatted it with bullets and emojis for better flow.
-5.  **Visitor Counter (Cool Factor):** Added a profile view count badge, which adds a bit of dynamic interest.
+</div>
 
-**Next Steps:**
+---
 
-* **Replace `AbhishekNamdeo1011`** with your actual GitHub username in all the stats and trophy links.
-* **Fill in your actual links** in the "Connect With Me" section.
-* **Create or choose a header image** and upload it to your profile repository (or remove that line if you prefer not to use one).
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
-Would you like me to help you find an alternative color scheme or theme for the GitHub stats if `buefy` isn't quite what you had in mind?
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" width="100%"/>
+<strong>Made with 💙, consistency, and clean code.</strong>
+</div>
