@@ -86,7 +86,7 @@ I enjoy building products that combine clean engineering with practical AI solut
 
 # Featured Projects
 
-## 🚀 ActionWatch
+##  ActionWatch
 
 AI-powered Incident Response Platform built for modern engineering teams.
 
@@ -142,23 +142,11 @@ Production-ready backend architecture featuring:
 
 </div>
 
----
 
-# GitHub Analytics
 
-<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbhishekNamdeo1011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=AbhishekNamdeo1011&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNamdeo1011&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # Connect
 
@@ -168,13 +156,11 @@ Production-ready backend architecture featuring:
   <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:abhisheknamdeo1011@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/AbhishekNamdeo1011">
   <img src="https://skillicons.dev/icons?i=github" width="55"/>
