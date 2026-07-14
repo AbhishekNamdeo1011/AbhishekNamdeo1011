@@ -1,134 +1,184 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1b2a,100:161b22&height=180&section=header&text=ABHISHEK%20NAMDEO&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20%7C%20India&descSize=16&descAlignY=58&descColor=8b949e" width="100%" />
+# Abhishek Namdeo
+
+### Full Stack Developer • Generative AI • Backend Systems
+
+<p>
+  <a href="https://www.linkedin.com/in/abhishek-namdeo-02749b317/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:abhisheknamdeo1011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/AbhishekNamdeo1011">
+    <img src="https://img.shields.io/github/followers/AbhishekNamdeo1011?style=for-the-badge"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=AbhishekNamdeo1011&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+## About Me
+
+Full Stack Developer from India specializing in **MERN Stack**, **Generative AI**, and scalable backend systems.
+
+I enjoy building products that combine clean engineering with practical AI solutions, ranging from production-grade backend architectures to intelligent AI-powered applications.
+
+- Backend Intern at **Vikaro**
+- Smart India Hackathon **2025 Finalist**
+- Best Performer — **Samadhan 2.0**
+- Best Team — **Skillsvarz Hackathon**
+- Interested in Backend Engineering, System Design, and AI Systems
+- Open to Full-Time Opportunities and Collaborations
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+
+
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
+
+
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+
+
+### AI & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,aws" />
+
+
+### AI & Vector Databases
+
+<p align="center">
+
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="55"/>
+
+<img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="55" height="55"/>
+
+</p>
+
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+
+</div>
+
+---
+
+# Featured Projects
+
+## 🚀 ActionWatch
+
+AI-powered Incident Response Platform built for modern engineering teams.
+
+### Features
+
+- AI Root Cause Detection
+- Similar Incident Search using Vector Embeddings
+- Predictive Incident Alerts
+- Live War Room Collaboration
+- Automated Postmortem Generation
+- Jira Integration
+- Real-time Monitoring Dashboard
+
+### Live Demo
+
+🔗 https://action-watch.vercel.app/
+
+### Tech Stack
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`Socket.IO`
+`Gemini`
+`Pinecone`
+
+---
+
+## Vikaro Backend
+
+Production-ready backend architecture featuring:
+
+- JWT Authentication
+- Wallet System
+- ImageKit Integration
+- Optimized MongoDB Architecture
+- RESTful APIs
+- Scalable Service Architecture
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Achievement | Description |
+|-------------|-------------|
+| Smart India Hackathon 2025 | National Finalist |
+| Samadhan 2.0 | Best Performer |
+| Skillsvarz Hackathon | Best Team Award |
+| Vikaro | Backend Intern |
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbhishekNamdeo1011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://streak-stats.demolab.com?user=AbhishekNamdeo1011&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%24+whoami+--verbose;Full-Stack+Dev+%7C+MERN+%7C+GenAI+%7C+India;Building+AI-powered+products+that+matter;RAG+Pipelines+%7C+LLM+Integration+%7C+Web3;Currently+open+to+opportunities+%E2%86%92" alt="Typing SVG" />
-
-<br/>
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-namdeo-02749b317/)
-![GitHub followers](https://img.shields.io/github/followers/AbhishekNamdeo1011?label=Followers&style=flat-square&color=58a6ff)
-![Profile Views](https://komarev.com/ghpvc/?username=AbhishekNamdeo1011&label=Profile+Views&color=1f6feb&style=flat-square)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat-square)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNamdeo1011&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-> Full-Stack Developer from **India** specializing in **MERN stack**, **Generative AI**, and production-grade backend systems.
-
-I build things that sit at the intersection of clean UI and intelligent backends — from pixel-perfect React interfaces to RAG pipelines that actually work. I care about code quality, system design, and shipping products that solve real problems.
-
-- 🧠 &nbsp; Currently building AI-powered web products (LLMs, RAG, agents)
-- 🔧 &nbsp; Backend Intern at **Vikaro** — RESTful API design & production systems
-- 🏆 &nbsp; **SIH 2025 Finalist** | Best Performer at Samadhan 2.0 | Best Team at Skillsvarz
-- 🎯 &nbsp; Targeting FAANG-level DSA readiness in C++
-- 📍 &nbsp; Based in India | Open to remote & on-site roles
-
----
-
-## 🚀 Featured Projects
+# Connect
 
 <div align="center">
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| ⚡ **[ActionWatch](https://github.com/AbhishekNamdeo1011)** | AI-powered incident response platform — AI Blame Detector, Predictive Alerts, Live War Room & Auto Jira integration | `MERN` `GenAI` `Jira API` |
-| 🔧 **Vikaro Backend** | Production-ready RESTful API system with JWT auth, ImageKit integration & optimized MongoDB architecture | `Node.js` `Express` `MongoDB` |
+<a href="https://www.linkedin.com/in/abhishek-namdeo-02749b317/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
 
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
----
+<a href="mailto:abhisheknamdeo1011@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
 
-## 🛠️ Tech Stack
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Generative AI & Vector DBs**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone_DB-000000?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Systems & Tools**
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥇 | Achievement | Context |
-|----|-------------|---------|
-| 🏆 | **SIH 2025 Finalist** | Smart India Hackathon — National Level |
-| 🥇 | **Best Performer — Samadhan 2.0** | GenAI in Education Track |
-| 🎯 | **Best Team — Skillsvarz** | Creative Frontend Hackathon |
-| 💼 | **Backend Intern — Vikaro** | RESTful API Design & Production Systems |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhishekNamdeo1011&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" />
-&nbsp;
-<img width="49%" src="https://streak-stats.demolab.com?user=AbhishekNamdeo1011&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&border_radius=8" />
-
-</div>
-
-<div align="center">
-<br/>
-<img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhishekNamdeo1011&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-namdeo-02749b317/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekNamdeo1011)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheknamdeo1011@gmail.com)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishek_namdeo0019/)
-
-<br/>
-
-> 💬 *Open to full-time roles, freelance projects, and hackathon collabs.*
-> 
-> *Drop a mail or connect on LinkedIn — I respond fast.*
+<a href="https://github.com/AbhishekNamdeo1011">
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
 
 </div>
 
@@ -136,6 +186,14 @@ I build things that sit at the intersection of clean UI and intelligent backends
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1b2a,100:0d1117&height=120&section=footer&text=%3E+keep_building+--no-limits_&fontSize=16&fontColor=58a6ff&animation=fadeIn&fontAlignY=65" width="100%" />
+### Building scalable products with MERN and AI.
+
+Focused on:
+
+**Backend Engineering • System Design • Generative AI • Intelligent Web Systems**
+
+I enjoy collaborating on impactful products and solving real-world problems through technology.
+
+Feel free to connect for opportunities, collaborations, or discussions around software engineering and AI.
 
 </div>
